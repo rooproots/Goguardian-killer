@@ -1,0 +1,1 @@
+javascript:(function(){var e=document.querySelectorAll("iframe");e.forEach(function(e){if(e.src.includes("goguardian")){e.parentNode.removeChild(e)}})})();
